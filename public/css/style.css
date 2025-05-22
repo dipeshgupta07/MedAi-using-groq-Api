@@ -1,0 +1,26 @@
+
+.chatbox2{
+   
+    height: 100%;
+    width: 100%;
+}
+.user{
+    background-color: rgb(193, 207, 243);
+    color: rgb(44, 0, 111);
+    padding: 10px;
+    border-radius: 10px 10px 0 10px;
+    align-self: self-end;
+   
+    justify-self: flex-end;
+    margin: 20px;
+    
+}
+body{
+    width: 100vw;
+}
+.bigbox{
+    width: 80vw
+}
+.wido{
+    padding: 20px;
+}
